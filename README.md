@@ -1,6 +1,3 @@
-# Student-Performance-Analysis
-Analysis and prediction of student mathematics performance using Python.
-
 # Student Mathematics Performance Analysis
 
 ## Overview
